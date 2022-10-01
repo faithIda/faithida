@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faith! I transitioned into tech from a non-technical background</h1>
 <h3 align="center">Tech| Software Development| Blockchain development |Metaverse Play-to-earn| Data Privacy</h3>
-<img align="right" alt="Coding" width="300" src="https://images.squarespace-cdn.com/content/v1/53be1344e4b08ede82e11ecf/1565135710257-28AE3KXYKJVYYHKKNZ6X/giphy.gif">
+<img align="right" alt="Coding" width="200" src="https://images.squarespace-cdn.com/content/v1/53be1344e4b08ede82e11ecf/1565135710257-28AE3KXYKJVYYHKKNZ6X/giphy.gif">
 
 
 
