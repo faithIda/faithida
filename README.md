@@ -8,21 +8,22 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faithida" alt="faithida" /></a> </p>
 
-- Software Engineer @ MDRxTech
+- Technical Professional Services Consultant @ Genesys
 
-- 🔭 I’m currently working on **KoboFarm**
+- 🔭 I’m currently working on **TTPNetwork/AI.Migrate**
 
-- 💁🏽‍♀️ Mentoring software engineering students with Black Codher
-- 📓 Scratch for Kids Tutor 
-- 📚 Completed a Software Engineering Nanodegree with Code First Girls
+- 💁🏽‍♀️ Mentoring software engineering students with Black Codher, Black Girls in Tech
+- 📓 Scratch for Kids Tutor- Coding Black Females 
+- 📚 Lead Frontend Development Instructor - Black Girls in Tech 
+- 📚 Assistant Instructor - Code first Girls 
 
-- 🌱 I’m currently learning **Blockchain development, Rust and VR Game development**
+- 🌱 I’m currently learning **AWS, Game development **
 
 - 👯 I’m looking to collaborate on **Blockchain development projects, Cybersecurity and Machine learning**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/Faith.tech](https://linktr.ee/Faith.tech)
 
-- 💬 Ask me about **Data privacy, Cyber security, Software Engineering**
+- 💬 Ask me about **Data privacy, Cyber security, Software Engineering, Technical Consulting**
 
 - 📫 How to reach me **faithida.intech@gmail.com**
 
